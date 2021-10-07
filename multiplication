@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int x, y, mul;
+    
+    cout << "Enter two integers\n";
+    cin >> x >> y;
+    
+    
+    product = x*y;
+    cout << "Product = " << mul;
+    
+    return 0;
+}
